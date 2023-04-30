@@ -2,8 +2,6 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/jjserranoPersonal?style=social)
 
-![](./banner.JPG)
-
 Mi nombre es Jonner Serrano, soy desarrollador back-end en Python con Django y Flask, MySQL
 
 # Skills:
@@ -24,3 +22,5 @@ Mi nombre es Jonner Serrano, soy desarrollador back-end en Python con Django y F
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonner_Serrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://pe.linkedin.com/in/uskokrum2010](https://www.linkedin.com/in/jonner-serrano-3a6aa986/))
 [![Email](https://img.shields.io/badge/jjserrano.1991@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jjserrano.1991@gmail.com)
+
+![](./banner.JPG)

@@ -2,7 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/jjserranoPersonal?style=social)
 
-./banner.JPG
+![](./banner.JPG)
 
 Mi nombre es Jonner Serrano, soy desarrollador back-end en Python con Django y Flask, MySQL
 
